@@ -162,8 +162,8 @@ footer a:hover{
     opacity: 50%;
 }
 
-@media (max-width:500) {
-    .resume header::befor{
+@media (max-width:500px) {
+    .resume header::before{
         height: 200px;
     }
     h1{
